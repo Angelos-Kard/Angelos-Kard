@@ -39,7 +39,7 @@
 <details open>
 <summary><h3>Stats</3></summary><br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=angelos-kard&show_icons=true&count_private=true&theme=gotham" alt="Angelos-Kard" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelos-kard&layout=compact&langs_count=6&theme=gotham" alt="Angelos-Kard" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=angelos-kard&show_icons=true&count_private=true&hide_rank=true&theme=gotham" alt="Angelos-Kard" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelos-kard&layout=compact&langs_count=6&theme=gotham" alt="Angelos-Kard" /></p>
 
 <!--
 <p align="center">
