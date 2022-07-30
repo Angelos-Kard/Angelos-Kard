@@ -36,14 +36,23 @@
 
 ---
 
-### Stats
+<details open>
+<summary><h3>Stats</3></summary><br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=angelos-kard&show_icons=true&count_private=true&theme=gotham" alt="Angelos-Kard" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelos-kard&layout=compact&langs_count=6&theme=gotham" alt="Angelos-Kard" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=angelos-kard&show_icons=true&count_private=true&theme=gotham" alt="Angelos-Kard" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelos-kard&layout=compact&langs_count=6&theme=gotham" alt="Angelos-Kard" /></p>
+
+<!--
+<p align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Angelos-Kard&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</p>
+-->
+</details>
 
 ---
 
-### Projects
+<details>
+
+<summary><h3>Projects</h3></summary><br />
 
 <p align="center">
 <a href="https://github.com/Angelos-Kard/tennis-club-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=angelos-kard&repo=tennis-club-app&theme=gotham" alt="Tennis-Club-App"></a>&nbsp;
@@ -54,3 +63,5 @@
 <a href="https://github.com/Angelos-Kard/iot-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=angelos-kard&repo=iot-project&theme=gotham" alt="Iot-Project"></a>
 <a href="https://github.com/Angelos-Kard/Graphics-And-VR-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=angelos-kard&repo=Graphics-And-VR-Project&theme=gotham" alt="Graphics-And-VR-Project"></a>&nbsp;
 </p>
+
+</details>
