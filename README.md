@@ -12,32 +12,32 @@
 ---
 
 ### Programming Languages & Tools
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="30px" height="30px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30px" height="30px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="30px" height="30px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="30px" height="30px">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30px" height="30px">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="30px" height="30px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React" alt="React" width="30px" height="30px">&nbsp;<br />
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="30px" height="30px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="Node.js" alt="JavaScript" width="30px" height="30px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30px" height="30px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="30px" height="30px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30px" height="30px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30px" height="30px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="30px" height="30px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30px" height="30px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="30px" height="30px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="30px" height="30px">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React" alt="React" width="30px" height="30px">&nbsp;<br />
 
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" width="30px" height="30px">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="30px" height="30px">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="30px" height="30px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/salesforce/salesforce-original.svg" title="Salesforce" alt="Salesforce" width="30px" height="30px">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-plain.svg" title="AdobeXD" alt="AdobeXD" width="30px" height="30px">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" title="Unity" alt="GitHub" width="30px" height="30px">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="30px" height="30px">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="30px" height="30px">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="30px" height="30px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="30px" height="30px">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="30px" height="30px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="30px" height="30px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="30px" height="30px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="30px" height="30px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-plain.svg" title="AdobeXD" alt="AdobeXD" width="30px" height="30px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" title="Unity" alt="GitHub" width="30px" height="30px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="30px" height="30px">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="30px" height="30px">&nbsp;
 
 
 ---
